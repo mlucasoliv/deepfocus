@@ -105,4 +105,38 @@ body {
             margin: 0;
         }
 
+        .header {
+            background-color: #f1f1f1;
+            padding: 20px 0;
+            margin: 0;
+        }
+
+        .deep-focus {
+            color: green;
+        }
+
+        .conteudo {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        footer {
+            background-color: #f1f1f1;
+            padding: 10px 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
 
